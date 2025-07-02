@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
-using Small_Library.ViewModels;
 using ToDoApi.Models;
 
 namespace ToDoApi.Data

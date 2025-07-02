@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 
-namespace Small_Library.ViewModels;
+namespace ToDoApi.Models;
 public class AuditLog
 {
     public int Id { get; set; }
